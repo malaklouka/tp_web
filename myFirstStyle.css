@@ -1,0 +1,17 @@
+input{
+    background-color: #FFF3F3;
+
+}
+label {
+    display:block;
+}
+fieldset
+{
+border : 2px solid red;
+}
+
+
+legend
+{
+border : 1px solid red;
+}
